@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jetpack compose , KMP**
 
-- 💬 Ask me about **Android , React , Java , Kotlin**
+- 💬 Ask me about **Android ,Java , Kotlin , React**
 
 - 📫 How to reach me **kareememadelfaragi@gmail.com**
 
